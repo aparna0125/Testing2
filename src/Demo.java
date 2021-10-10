@@ -5,5 +5,10 @@ public class Demo {
 		
 		System.out.println("Hello Git_Project2");
 		
+		public void m1()
+		{
+			System.out.println("m1 method");
+		}
+		
 	}
 }
